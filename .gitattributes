@@ -1,1 +1,2 @@
 *.tif filter=lfs diff=lfs merge=lfs -text
+/fabdem-tiles/*.tif filter=lfs diff=lfs merge=lfs -text
